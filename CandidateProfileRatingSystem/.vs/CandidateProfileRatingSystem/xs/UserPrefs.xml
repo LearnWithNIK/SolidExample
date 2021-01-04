@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{93957990-3807-4C1A-AD78-F8FCD90F8D8B}|Default">
+  <MonoDevelop.Ide.ItemProperties.CandidateProfileRatingSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CandidateProfileRatingSystem_SRP/Skills.cs">
+    <Files>
+      <File FileName="CandidateProfileRatingSystem/Program.cs" Line="33" Column="190" />
+      <File FileName="CandidateProfileRatingSystem_SRP/Resume.cs" Line="15" Column="2" />
+      <File FileName="CandidateProfileRatingSystem_SRP/Program.cs" Line="27" Column="48" />
+      <File FileName="CandidateProfileRatingSystem_SRP/ProfileRatingSystem.cs" Line="47" Column="236" />
+      <File FileName="CandidateProfileRatingSystem_SRP/Skills.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CandidateProfileRatingSystem" expanded="True">
+            <Node name="CandidateProfileRatingSystem_SRP" expanded="True">
+              <Node name="Skills.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
